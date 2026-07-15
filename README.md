@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/enrique-emmanuel-jaime/">
   <img src="https://img.shields.io/badge/LINKEDIN-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:emmanuel.jaime.dev@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=emmanuel.jaime.dev@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/emmanuel-jaime">
