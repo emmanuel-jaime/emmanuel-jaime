@@ -21,23 +21,23 @@
 <a href="https://TU_PORTFOLIO.com">
   <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+<a href="www.linkedin.com/in/enrique-emmanuel-jaime">
   <img src="https://img.shields.io/badge/LINKEDIN-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:emmanuelenriquejaime@gmail.com">
+<a href="mailto:emmanuel.jaime.dev@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/TU_USUARIO_GITHUB">
+<a href="https://github.com/emmanuel-jaime">
   <img src="https://img.shields.io/badge/GITHUB-1e1b4b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=VISITAS+AL+PERFIL&color=7c3aed&style=flat-square" alt="Visitas al perfil" />
-<a href="https://github.com/TU_USUARIO_GITHUB?tab=followers">
-  <img src="https://img.shields.io/github/followers/TU_USUARIO_GITHUB?label=SEGUIDORES&style=flat-square&color=4f46e5&labelColor=1e1b4b" alt="Seguidores en GitHub" />
+<img src="https://komarev.com/ghpvc/?username=emmanuel-jaime&label=VISITAS+AL+PERFIL&color=7c3aed&style=flat-square" alt="Visitas al perfil" />
+<a href="https://github.com/emmanuel-jaime?tab=followers">
+  <img src="https://img.shields.io/github/followers/emmanuel-jaime?label=SEGUIDORES&style=flat-square&color=4f46e5&labelColor=1e1b4b" alt="Seguidores en GitHub" />
 </a>
-<a href="https://github.com/TU_USUARIO_GITHUB?tab=repositories">
+<a href="https://github.com/emmanuel-jaime?tab=repositories">
   <img src="https://img.shields.io/badge/ESTRELLAS-REPOSITORIOS-8b5cf6?style=flat-square&labelColor=1e1b4b" alt="Estrellas de repositorios" />
 </a>
 
@@ -175,7 +175,7 @@ Dashboard ejecutivo diseñado para explorar el desempeño comercial del mercado 
 | **Rendimiento** | Modelo de datos optimizado para filtros, segmentación geográfica y exploración interactiva |
 | **Seguridad** | Uso exclusivo de información pública y sin datos personales sensibles |
 | **Impacto** | Identificación de zonas, segmentos y patrones relevantes para decisiones comerciales |
-| **Repositorio** | [Ver repositorio](https://github.com/TU_USUARIO_GITHUB/airbnb-nyc-dashboard) |
+| **Repositorio** | [Ver repositorio](https://github.com/emmanuel-jaime/airbnb-nyc-dashboard) |
 
 El dashboard prioriza la comunicación ejecutiva mediante **KPIs claros, comparaciones, segmentación y storytelling visual**. Su objetivo es convertir un dataset amplio en información fácil de interpretar para perfiles técnicos y de negocio.
 
@@ -197,7 +197,7 @@ Aplicación de gestión pensada para comercios que necesitan operar localmente, 
 | **Rendimiento** | Arquitectura orientada a equipos de recursos limitados y ejecución dentro de una red local |
 | **Seguridad** | Autenticación, usuarios propietarios, separación de permisos y persistencia estructurada |
 | **Impacto** | Centralización de inventario y ventas, reducción de errores manuales y mayor trazabilidad operativa |
-| **Repositorio** | [Ver repositorio](https://github.com/TU_USUARIO_GITHUB/sistema-stock-ventas) |
+| **Repositorio** | [Ver repositorio](https://github.com/emmanuel-jaime/sistema-stock-ventas) |
 
 El sistema se desarrolla con enfoque de producto real: configuración inicial, alta del comercio, autenticación, gestión operativa y preparación para convertirse en una aplicación instalable y utilizable por clientes no técnicos.
 
@@ -219,7 +219,7 @@ Propuesta integral de automatización para aumentar la adhesión a factura digit
 | **Rendimiento** | Diseño escalable, automatización de campañas, segmentación y seguimiento de conversiones |
 | **Seguridad** | Protección de datos, control de accesos, trazabilidad, consentimiento y minimización de información sensible |
 | **Impacto** | Potencial reducción de impresión y distribución postal, mayor adopción digital y mejor experiencia omnicanal |
-| **Repositorio** | [Ver documentación](https://github.com/TU_USUARIO_GITHUB/factura-digital-omnicanal) |
+| **Repositorio** | [Ver documentación](https://github.com/emmanuel-jaime/factura-digital-omnicanal) |
 
 La solución integra estrategia, arquitectura tecnológica, automatización, análisis financiero, KPIs, riesgos y roadmap de implementación. El foco está puesto en demostrar cómo la tecnología puede generar **ahorro, eficiencia operativa y valor para el cliente**.
 
@@ -380,12 +380,12 @@ Aplicación de análisis cuantitativo, gestión de riesgo y seguimiento de desem
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed&locale=es" alt="Estadísticas de GitHub" />
-<img width="49%" src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B9A&locale=es" alt="Racha de contribuciones" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=emmanuel-jaime&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed&locale=es" alt="Estadísticas de GitHub" />
+<img width="49%" src="https://streak-stats.demolab.com?user=emmanuel-jaime&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B9A&locale=es" alt="Racha de contribuciones" />
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8&locale=es" alt="Lenguajes más utilizados" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-jaime&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8&locale=es" alt="Lenguajes más utilizados" />
 
 </div>
 
@@ -395,7 +395,7 @@ Aplicación de análisis cuantitativo, gestión de riesgo y seguimiento de desem
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Trofeos de GitHub" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=emmanuel-jaime&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Trofeos de GitHub" />
 
 </div>
 
@@ -405,7 +405,7 @@ Aplicación de análisis cuantitativo, gestión de riesgo y seguimiento de desem
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4c1d95&hide_border=true&custom_title=Actividad%20de%20Contribuciones" alt="Gráfico de actividad de contribuciones" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuel-jaime&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=4c1d95&hide_border=true&custom_title=Actividad%20de%20Contribuciones" alt="Gráfico de actividad de contribuciones" />
 
 </div>
 
@@ -416,9 +416,9 @@ Aplicación de análisis cuantitativo, gestión de riesgo y seguimiento de desem
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación snake de contribuciones" src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emmanuel-jaime/emmanuel-jaime/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emmanuel-jaime/emmanuel-jaime/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación snake de contribuciones" src="https://raw.githubusercontent.com/emmanuel-jaime/emmanuel-jaime/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -461,16 +461,18 @@ abierto_a:
 
 <div align="center">
 
-<a href="mailto:emmanuelenriquejaime@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-emmanuelenriquejaime%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:emmanuel.jaime.dev@gmail.com
+">
+  <img src="https://img.shields.io/badge/Gmail-emmanuel.jaime.dev@gmail.com
+-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+<a href="www.linkedin.com/in/enrique-emmanuel-jaime">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/TU_USUARIO_GITHUB">
+<a href="https://github.com/emmanuel-jaime">
   <img src="https://img.shields.io/badge/GitHub-Seguir-1e1b4b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://TU_PORTFOLIO.com">
