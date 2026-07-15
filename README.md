@@ -21,11 +21,11 @@
 <a href="https://TU_PORTFOLIO.com">
   <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="www.linkedin.com/in/enrique-emmanuel-jaime">
+<a href="https://www.linkedin.com/in/enrique-emmanuel-jaime/">
   <img src="https://img.shields.io/badge/LINKEDIN-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:emmanuel.jaime.dev@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/GMAIL-emmanuel.jaime.dev%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/emmanuel-jaime">
   <img src="https://img.shields.io/badge/GITHUB-1e1b4b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
