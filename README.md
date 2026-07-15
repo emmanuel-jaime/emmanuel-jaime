@@ -377,15 +377,17 @@ Aplicación de análisis cuantitativo, gestión de riesgo y seguimiento de desem
 ---
 
 ## Analíticas de GitHub
+## Analíticas de GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=emmanuel-jaime&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed&locale=es" alt="Estadísticas de GitHub" />
+<img width="49%" src="./profile/stats.svg" alt="Estadísticas de GitHub" />
+
 <img width="49%" src="https://streak-stats.demolab.com?user=emmanuel-jaime&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B9A&locale=es" alt="Racha de contribuciones" />
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-jaime&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8&locale=es" alt="Lenguajes más utilizados" />
+<img width="55%" src="./profile/top-langs.svg" alt="Lenguajes más utilizados" />
 
 </div>
 
