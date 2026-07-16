@@ -407,14 +407,25 @@ Aplicación de análisis cuantitativo, gestión de riesgo y seguimiento de desem
 
 ---
 
+---
+
 ## Snake de contribuciones
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emmanuel-jaime/emmanuel-jaime/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emmanuel-jaime/emmanuel-jaime/output/github-contribution-grid-snake.svg" />
-  <img alt="Animación snake de contribuciones" src="https://raw.githubusercontent.com/emmanuel-jaime/emmanuel-jaime/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/emmanuel-jaime/emmanuel-jaime/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/emmanuel-jaime/emmanuel-jaime/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Snake de contribuciones de GitHub"
+    src="https://raw.githubusercontent.com/emmanuel-jaime/emmanuel-jaime/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
