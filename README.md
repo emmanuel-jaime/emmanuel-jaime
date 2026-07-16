@@ -468,7 +468,7 @@ abierto_a:
 
 <div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=emmanuel.jaime.dev@gmail.com"
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emmanuel.jaime.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-emmanuel.jaime.dev%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
