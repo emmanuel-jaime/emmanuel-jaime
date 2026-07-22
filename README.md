@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<a href="https://TU_PORTFOLIO.com">
+<a href="https://portfolio-emmanuel-jaime.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/enrique-emmanuel-jaime/">
@@ -480,7 +480,7 @@ abierto_a:
 <a href="https://github.com/emmanuel-jaime">
   <img src="https://img.shields.io/badge/GitHub-Seguir-1e1b4b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://TU_PORTFOLIO.com">
+<a href="https://portfolio-emmanuel-jaime.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Ver_proyectos-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
